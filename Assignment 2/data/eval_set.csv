@@ -1,0 +1,16 @@
+id,category,en,de_ref,source
+E01,short,Stock markets are rallying.,Die Aktienmärkte steigen.,corpus (test split)
+E02,short,This can be done in creative ways.,Das kann auf kreative Weise erfolgen.,corpus (test split)
+E03,short,Immanuel Kant described two types of politicians.,Immanuel Kant beschrieb zwei Arten von Politikern.,corpus (test split)
+E04,long,A recent study by Andy Haldane and others at the Bank of England casts doubt on the prospect of a return to the status quo ante.,"Eine jüngere Studie von Andy Haldane und anderen von der Bank of England lässt Zweifel aufkommen, was die Aussicht auf eine Rückkehr zum alten Status quo angeht.",corpus (test split)
+E05,long,We count on China’s continued support for European and American efforts in making sure that Iran’s nuclear program remains limited to purely civilian purposes.,"Wir setzen auf Chinas dauerhafte Unterstützung der europäischen und amerikanischen Bemühungen, dafür zu sorgen, dass Irans Atomprogramm auf rein zivile Zwecke beschränkt bleibt.",corpus (test split)
+E06,long,At the top of the agenda should be ratification of improvements to a crucial nuclear security instrument – theConvention on the Physical Protection of Nuclear Material.,Ganz oben auf der Tagesordnung sollte die Verabschiedung von Verbesserungen eines entscheidenden Instruments zur nuklearen Sicherheit stehen – der Konvention zum physischen Schutz nuklearen Materials.,corpus (test split)
+E07,ne_numbers,"The 10 new EU members do not have the same history as the Netherlands, Belgium, and Luxembourg.","Die 10 neuen EU-Mitglieder haben eine andere Geschichte als die Niederlande, Belgien und Luxemburg.",corpus (test split)
+E08,ne_numbers,Putinism claimed victory after invading tiny Georgia in 2008.,"Putin verbuchte den Sieg für sich, nachdem er 2008 Truppen in das winzige Georgien einmarschieren ließ.",corpus (test split)
+E09,ne_numbers,One such rule is the Maastricht Treaty’s cap on member states’ public debt at 60% of GDP.,"Eine dieser Regeln ist die Grenze von 60% des BIP, die im Maastricht-Vertrag für die Staatsschulden der Mitgliedstaaten angegeben ist.",corpus (test split)
+E10,domain_term,The spokesperson declined to comment on the allegations at a press conference.,"Der Sprecher lehnte es auf einer Pressekonferenz ab, sich zu den Vorwürfen zu äußern.",authored
+E11,domain_term,"According to preliminary results, the ruling coalition lost its majority in parliament.",Nach vorläufigen Ergebnissen hat die Regierungskoalition ihre Mehrheit im Parlament verloren.,authored
+E12,domain_term,The central bank raised interest rates by a quarter of a percentage point to curb inflation.,"Die Zentralbank erhöhte die Zinsen um einen Viertelprozentpunkt, um die Inflation einzudämmen.",authored
+E13,out_of_domain,Preheat the oven to 180 degrees and grease the baking tin.,Heizen Sie den Backofen auf 180 Grad vor und fetten Sie die Backform ein.,authored
+E14,out_of_domain,Restart your router and try connecting to the network again.,"Starten Sie Ihren Router neu und versuchen Sie erneut, eine Verbindung zum Netzwerk herzustellen.",authored
+E15,out_of_domain,"Hey, are we still meeting for coffee tomorrow afternoon?","Hey, treffen wir uns morgen Nachmittag noch auf einen Kaffee?",authored

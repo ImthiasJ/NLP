@@ -1,0 +1,9 @@
+id,phenomenon,en,de_ref,news_focus
+S01,negation,Police say the suspect was not armed and did not resist arrest.,"Die Polizei sagt, der Verdächtige sei nicht bewaffnet gewesen und habe sich der Festnahme nicht widersetzt.",reported speech; double negation scope
+S02,word_order,The chancellor said that the government would announce new sanctions against Russia on Monday.,"Der Kanzler sagte, dass die Regierung am Montag neue Sanktionen gegen Russland ankündigen werde.",verb-final subordinate clause; date expression; named entity
+S03,idiom_mwe,Opposition leaders say the reform has been kicked into the long grass.,"Oppositionsführer sagen, die Reform sei auf die lange Bank geschoben worden.",idiom with a different German idiom
+S04,oov_compound,Federal Constitutional Court halts speed-limit law,Bundesverfassungsgericht stoppt Tempolimit-Gesetz,headline with dropped articles; long German compound
+S05,ambiguity,Union leaders call strike at Frankfurt airport,Gewerkschaftsführer rufen zum Streik am Frankfurter Flughafen auf,headline; union = Gewerkschaft (not EU); strike = Streik; place
+S06,quotation_negation,"""We will not give in,"" Scholz told reporters in Berlin on 3 October.","„Wir werden nicht nachgeben“, sagte Scholz am 3. Oktober vor Journalisten in Berlin.",quotation; named entity; date; verb-second inversion after quote
+S07,headline_dropped_verb,Storm leaves thousands without power in Bavaria,Sturm lässt Tausende in Bayern ohne Strom,headline register; place name (Bavaria -> Bayern)
+S08,oov_neologism,Deepfake video of mayor sparks outrage,Deepfake-Video des Bürgermeisters sorgt für Empörung,OOV neologism; headline with dropped article
